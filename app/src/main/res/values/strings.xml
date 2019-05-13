@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">INSTEAL</string>
+
+
+
+    <string name="title_activity_list_rumah_sakit">ListRumahSakit</string>
+    <string name="title_activity_list_klinik">ListKlinik</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
+
