@@ -13,7 +13,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.synnapps.carouselview.CarouselView;
-import com.synnapps.carouselview.ImageClickListener;
+//import com.synnapps.carouselview.ImageClickListener;
 import com.synnapps.carouselview.ImageListener;
 
 
